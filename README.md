@@ -64,7 +64,7 @@ Hint: It's not Yoda, but they do love justice.
 Check it out here:
 https://legal-aid-steel.vercel.app/
 
-🤝 Team Technologia
+🤝 Team Technologia!!!
 
 Created as part of a Hackathon project by Team Technologia – building inclusive and ethical AI for India.
 

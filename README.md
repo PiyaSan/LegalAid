@@ -6,7 +6,7 @@ Live Site: https://legal-aid-steel.vercel.app/
 
 Sahayata is a free, AI-powered legal assistance platform designed to provide urgent legal help and raise awareness among Indian citizens about their rights. Built for accessibility, Sahayata supports voice-based interaction in multiple Indian languages, connects users to nearby police stations and verified lawyers, and serves as a hub for legal education.
 
-🔧 Tech Stack Used
+🔧 Tech Stack Used 
 
 Frontend: React.js, Tailwind CSS
 Backend/API: Node.js (Express) 
@@ -53,7 +53,7 @@ Legal Awareness Programs: Paid collaborations with NGOs and institutions
 ✅ UI/UX for Accessibility: Designed for low-literacy and rural users
 ✅ Deployed Full Stack Web App
 
-🕰️ Trivia for the Easter Egg:
+🕰️ Trivia for the Easter Egg: (Challenge)
 
 "Tick... tick... tick... silence may be golden, but hold it long enough, and you’ll trigger more than patience."
 An ancient order may arrive — one you never asked for.

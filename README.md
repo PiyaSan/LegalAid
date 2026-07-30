@@ -68,7 +68,7 @@ https://legal-aid-steel.vercel.app/
 
 Created as part of a Hackathon project by Team Technologia – building inclusive and ethical AI for India.
 
-BELOW ARE THE VISUALS OF OUR WEBSITE 
+BELOW ARE THE VISUALS OF OUR WEBSITE :
 
 ![image](https://github.com/user-attachments/assets/61900aed-c32f-4ec4-b4d3-e9204d8eb44c)
 

@@ -55,7 +55,7 @@ Legal Awareness Programs: Paid collaborations with NGOs and institutions
 
 🕰️ Trivia for the Easter Egg: (Challenge)
 
-"Tick... tick... tick... silence may be golden, but hold it long enough, and you’ll trigger more than patience."
+"Tick... tick... tick....... silence may be golden, but hold it long enough, and you’ll trigger more than patience."
 An ancient order may arrive — one you never asked for.
 Hint: It's not Yoda, but they do love justice.
 
